@@ -1,0 +1,12 @@
+23:26:58.949 [main] INFO  api.test.UserPojoTest2 -********* User is ctreated **********
+23:27:03.733 [main] INFO  api.test.UserPojoTest2 -********* User is displayed **********
+23:27:03.746 [main] INFO  api.test.UserPojoTest2 -********* get user info **********
+23:27:03.960 [main] INFO  api.test.UserPojoTest2 -********* User is updated**********
+23:27:04.259 [main] INFO  api.test.UserPojoTest2 -********* update User is displayed **********
+23:27:04.261 [main] INFO  api.test.UserPojoTest2 -********* User is deleted **********
+23:30:48.732 [main] INFO  api.test.UserPojoTest2 -********* User is ctreated **********
+23:30:51.904 [main] INFO  api.test.UserPojoTest2 -********* User is displayed **********
+23:30:51.909 [main] INFO  api.test.UserPojoTest2 -********* get user info **********
+23:30:52.091 [main] INFO  api.test.UserPojoTest2 -********* User is updated**********
+23:30:52.361 [main] INFO  api.test.UserPojoTest2 -********* update User is displayed **********
+23:30:52.363 [main] INFO  api.test.UserPojoTest2 -********* User is deleted **********
